@@ -23,7 +23,9 @@
   ],
   "extra_course_numbers": "",
   "primary_course_number": "ibratestcourse4",
-  "learning_resource_types": [],
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
   "site_uid": "9274d3ea-224a-4f77-b353-20b253dea8c3",
   "site_short_id": "ibratestcourse4"
 }
